@@ -2,15 +2,15 @@ var g, c, m;
 var gI, cI1,CI2,CI3,CI4,mI1,mI2,mI3,mI4;
 function preload() {
     //load the images here
-  gI = loadImage("images/garden.png");
-  cI2 = loadAnimation("images/cat2.png");
-  cI1 = loadAnimation("images/cat1.png");
-  cI3 = loadAnimation("images/cat3.png");
-  cI4 = loadAnimation("images/cat4.png");
-  mI1 = loadAnimation("images/mouse1.png");
-  mI2 = loadAnimation("images/mouse2.png");
-  mI3 = loadAnimation("images/mouse3.png");
-  mI4 = loadAnimation("images/mouse4.png");
+  gI = loadImage("garden.png");
+  cI2 = loadAnimation("cat2.png");
+  cI1 = loadAnimation("cat1.png");
+  cI3 = loadAnimation("cat3.png");
+  cI4 = loadAnimation("cat4.png");
+  mI1 = loadAnimation("mouse1.png");
+  mI2 = loadAnimation("mouse2.png");
+  mI3 = loadAnimation("mouse3.png");
+  mI4 = loadAnimation("mouse4.png");
   
 
   }
